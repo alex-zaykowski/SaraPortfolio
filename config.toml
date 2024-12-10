@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Sara Zaykowski'
+[[module.imports]]
+path = "github.com/CaiJimmy/hugo-theme-stack/v3"
